@@ -1,0 +1,6 @@
+package MyException.AtomStructureException;
+
+import MyException.CircularOrbitExceotion.ObjectDoesNotExistException;
+
+public class ElectronDoesNotExistExistException extends ObjectDoesNotExistException {
+}
